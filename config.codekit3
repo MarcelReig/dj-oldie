@@ -3452,6 +3452,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/images\/dj-oldie.png": {
+		"ft": 32768,
+		"iS": 752615,
+		"oA": 0,
+		"oAP": "\/images\/dj-oldie.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/dj-toful.jpg": {
 		"ft": 16384,
 		"iS": 75697,
@@ -3496,12 +3504,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/README.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/README.html",
-		"oF": 0
 		},
 	"\/README.md": {
 		"cS": 0,
